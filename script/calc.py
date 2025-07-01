@@ -8,7 +8,7 @@ and climate indices (DMI and ONI) for annual and seasonal periods.
 
 Author: Sandy Herho <sandy.herho@email.ucr.edu>
 Date: June 30, 2025
-License: MIT
+License: WTFPL
 
 Output:
 -------
