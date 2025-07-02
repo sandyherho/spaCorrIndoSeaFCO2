@@ -271,7 +271,7 @@ def create_annual_figure(data, significance, lon, lat, index_name, output_dir):
                                   significance=significance,
                                   vmin=-0.8, vmax=0.8,
                                   stipple_method='hatching',
-                                  stipple_params={'hatch_style': '...', 'alpha': 0.35})
+                                  stipple_params={'hatch_style': '..', 'alpha': 0.3})
     
     # Add colorbar
     cbar = plt.colorbar(mesh, ax=ax, orientation='horizontal', 
