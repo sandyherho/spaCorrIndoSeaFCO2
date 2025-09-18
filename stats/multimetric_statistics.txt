@@ -1,0 +1,230 @@
+================================================================================
+fgCO2 CLIMATE INDEX MULTI-METRIC ANALYSIS - STATISTICS REPORT
+================================================================================
+Generated: 2025-09-17 09:26:08
+================================================================================
+
+
+DMI INDEX ANALYSIS
+----------------------------------------
+
+Period: Annual
+~~~~~~~~~~~~~~~~~~~~
+
+Pearson Correlation:
+  Mean:         0.1654
+  Std Dev:      0.2931
+  Range:       [-0.6582,  0.7388]
+  Significant:  33.83%
+
+Spearman Correlation:
+  Mean:         0.1738
+  Std Dev:      0.2675
+  Range:       [-0.6274,  0.6752]
+  Significant:  27.10%
+
+Mutual Information:
+  Mean:         0.0323
+  Std Dev:      0.0343
+  Range:       [ 0.0000,  0.1664]
+  Significant:   5.66% (MI > 0.1)
+
+Period: DJF
+~~~~~~~~~~~~~~~~~~~~
+
+Pearson Correlation:
+  Mean:         0.1269
+  Std Dev:      0.2673
+  Range:       [-0.6127,  0.6153]
+  Significant:  23.65%
+
+Spearman Correlation:
+  Mean:         0.1680
+  Std Dev:      0.2649
+  Range:       [-0.6472,  0.6390]
+  Significant:  28.17%
+
+Mutual Information:
+  Mean:         0.0181
+  Std Dev:      0.0246
+  Range:       [ 0.0000,  0.1796]
+  Significant:   0.98% (MI > 0.1)
+
+Period: MAM
+~~~~~~~~~~~~~~~~~~~~
+
+Pearson Correlation:
+  Mean:         0.1558
+  Std Dev:      0.2141
+  Range:       [-0.5921,  0.6477]
+  Significant:  11.12%
+
+Spearman Correlation:
+  Mean:         0.1522
+  Std Dev:      0.2098
+  Range:       [-0.4981,  0.6745]
+  Significant:   8.90%
+
+Mutual Information:
+  Mean:         0.0133
+  Std Dev:      0.0207
+  Range:       [ 0.0000,  0.1540]
+  Significant:   0.58% (MI > 0.1)
+
+Period: JJA
+~~~~~~~~~~~~~~~~~~~~
+
+Pearson Correlation:
+  Mean:         0.2049
+  Std Dev:      0.2303
+  Range:       [-0.6062,  0.7434]
+  Significant:  24.86%
+
+Spearman Correlation:
+  Mean:         0.1940
+  Std Dev:      0.2224
+  Range:       [-0.6458,  0.7545]
+  Significant:  18.96%
+
+Mutual Information:
+  Mean:         0.0222
+  Std Dev:      0.0249
+  Range:       [ 0.0000,  0.1604]
+  Significant:   0.91% (MI > 0.1)
+
+Period: SON
+~~~~~~~~~~~~~~~~~~~~
+
+Pearson Correlation:
+  Mean:         0.0053
+  Std Dev:      0.3861
+  Range:       [-0.8632,  0.8095]
+  Significant:  33.80%
+
+Spearman Correlation:
+  Mean:         0.0398
+  Std Dev:      0.3791
+  Range:       [-0.9056,  0.8414]
+  Significant:  34.78%
+
+Mutual Information:
+  Mean:         0.0302
+  Std Dev:      0.0376
+  Range:       [ 0.0000,  0.2484]
+  Significant:   6.27% (MI > 0.1)
+
+ONI INDEX ANALYSIS
+----------------------------------------
+
+Period: Annual
+~~~~~~~~~~~~~~~~~~~~
+
+Pearson Correlation:
+  Mean:        -0.0297
+  Std Dev:      0.2267
+  Range:       [-0.7892,  0.5018]
+  Significant:   7.29%
+
+Spearman Correlation:
+  Mean:        -0.0523
+  Std Dev:      0.2117
+  Range:       [-0.8140,  0.4858]
+  Significant:   6.70%
+
+Mutual Information:
+  Mean:         0.0141
+  Std Dev:      0.0243
+  Range:       [ 0.0000,  0.1844]
+  Significant:   1.37% (MI > 0.1)
+
+Period: DJF
+~~~~~~~~~~~~~~~~~~~~
+
+Pearson Correlation:
+  Mean:         0.0259
+  Std Dev:      0.1967
+  Range:       [-0.6063,  0.6499]
+  Significant:   3.74%
+
+Spearman Correlation:
+  Mean:         0.0120
+  Std Dev:      0.1898
+  Range:       [-0.6232,  0.6533]
+  Significant:   4.27%
+
+Mutual Information:
+  Mean:         0.0173
+  Std Dev:      0.0250
+  Range:       [ 0.0000,  0.1663]
+  Significant:   1.35% (MI > 0.1)
+
+Period: MAM
+~~~~~~~~~~~~~~~~~~~~
+
+Pearson Correlation:
+  Mean:        -0.0477
+  Std Dev:      0.2305
+  Range:       [-0.6653,  0.6807]
+  Significant:   9.43%
+
+Spearman Correlation:
+  Mean:        -0.0517
+  Std Dev:      0.2181
+  Range:       [-0.7354,  0.7463]
+  Significant:   6.94%
+
+Mutual Information:
+  Mean:         0.0128
+  Std Dev:      0.0214
+  Range:       [ 0.0000,  0.1982]
+  Significant:   0.53% (MI > 0.1)
+
+Period: JJA
+~~~~~~~~~~~~~~~~~~~~
+
+Pearson Correlation:
+  Mean:         0.0459
+  Std Dev:      0.2777
+  Range:       [-0.7822,  0.7672]
+  Significant:  15.55%
+
+Spearman Correlation:
+  Mean:         0.0512
+  Std Dev:      0.2534
+  Range:       [-0.7709,  0.8270]
+  Significant:  11.10%
+
+Mutual Information:
+  Mean:         0.0130
+  Std Dev:      0.0244
+  Range:       [ 0.0000,  0.1938]
+  Significant:   1.62% (MI > 0.1)
+
+Period: SON
+~~~~~~~~~~~~~~~~~~~~
+
+Pearson Correlation:
+  Mean:        -0.0560
+  Std Dev:      0.3188
+  Range:       [-0.9052,  0.6615]
+  Significant:  25.52%
+
+Spearman Correlation:
+  Mean:        -0.0343
+  Std Dev:      0.3146
+  Range:       [-0.8585,  0.6438]
+  Significant:  23.81%
+
+Mutual Information:
+  Mean:         0.0199
+  Std Dev:      0.0282
+  Range:       [ 0.0000,  0.2064]
+  Significant:   2.15% (MI > 0.1)
+
+================================================================================
+NOTES:
+- Pearson correlation: Linear relationship measure
+- Spearman correlation: Monotonic relationship measure
+- Mutual Information: General dependency measure (0=independent, 1=perfect)
+- Significance thresholds: p<0.05 for correlations, MI>0.1 for mutual information
+================================================================================
